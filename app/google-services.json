@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1043639224416",
+    "project_id": "linklite-9e2a2",
+    "storage_bucket": "linklite-9e2a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1043639224416:android:96b56163d3d4c70a791b05",
+        "android_client_info": {
+          "package_name": "com.example.linklite122CS0958"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoBUNnP1UOhU5t_uR4phXhFkPeZFgpUP4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
